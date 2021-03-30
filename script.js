@@ -4,4 +4,4 @@ req.onreadystatechange = function( ) {
     console.log(this.response);
     }
 }
-req.send( );
+req.send( );    
